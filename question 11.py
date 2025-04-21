@@ -1,4 +1,4 @@
-x=int(input())
+   x=int(input())
 y=int(input())
 if x>0 and y>0:
     print("The coordinate point lies in the first quadrant.")
